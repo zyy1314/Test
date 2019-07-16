@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 master的修改
+=======
+这是tom的修改
+:wq
+>>>>>>> Tom_bh
 from flask import Flask, render_template, url_for
 
 app = Flask(__name__)
